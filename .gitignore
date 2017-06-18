@@ -6,6 +6,17 @@
 *.ko
 *.obj
 *.elf
+OBJ/
+*.asm
+*.dav
+*.dpt
+*.plg
+*.rtf
+*.uvopt
+*.A51
+*.uvproj
+*.bak
+
 
 # Linker output
 *.ilk
